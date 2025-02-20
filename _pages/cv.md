@@ -18,8 +18,10 @@ Education
 * **Industrial Ph.D in Electronic Systems on Integration of AI & Blockchain**
   Siemens & Aalborg University (Jan 2019 – Dec 2021)
 * **M.Sc at Seoul National University in Computer Science**
+
   Seoul, Republic of Korea (Mar 2016 – Jun 2018)
 * **B.Sc at Hanoi University of Science and Technology**
+
   Hanoi, Vietnam (Sep 2010 – Jun 2015)
 
 Work experience
