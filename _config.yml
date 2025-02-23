@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lam Nguyen / Emerging Tech Specialist"
+title                    : "Dr. Lam Nguyen / Emerging Tech Specialist"
 title_separator          : "-"
 name                     : &name "Lam Nguyen"
 description              : &description "personal description"
