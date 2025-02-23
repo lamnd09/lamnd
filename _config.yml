@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Dr. Lam Nguyen"
-title_separator          : "ABC"
+title_separator          : "-"
 name                     : &name "Lam Nguyen"
 description              : &description "personal description"
 url                      : https://lamnd09.github.io/lamnd/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
